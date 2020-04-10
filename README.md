@@ -1,2 +1,3 @@
 # QuickBuy
-Projeto do curso de Asp.NetCore &amp; Angular
+
+Projeto do curso em asp.net core e angular.
